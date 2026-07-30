@@ -2,7 +2,7 @@
 
 🎓**Formado em Análise e Desenvolvimento de Sistemas (ADS)**
 
-🚀**Atualmente em um plano intensivo de** **revisão e consolidação de fundamentos** em **Java** e **Lógica de Programação**.
+🚀**Atualmente em um plano intensivo de** **revisão e consolidação de fundamentos** **em** **Java** **e** **Lógica de Programação**.
 
 ---
 ### 🎯 Foco Atual (Próximos 90 Dias)

@@ -1,4 +1,4 @@
- Olá! Eu Sou Ivano Moraes Valencio 👋
+ # Olá! Eu sou o **Ivano Moraes Valencio** 👋
 
 🎓**Formado em Análise e Desenvolvimento de Sistemas (ADS)**
 
